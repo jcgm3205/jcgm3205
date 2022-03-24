@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcgm3205
 - 👀 I’m interested in becoming a Front-End Web Developer
-- 🌱 I’m currently learning how to use Git/GitHub. As well as some issues related with Information Architecture.
+- 🌱 I’m currently dealing with some small projects, to gain experience and for fun.
 - 📫 How to reach me: 
   Email: jcglezmarin@gmail.com
 
